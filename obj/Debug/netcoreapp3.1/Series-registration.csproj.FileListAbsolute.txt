@@ -1,0 +1,13 @@
+C:\Users\gurak\Documents\Coding\Series-registration\bin\Debug\netcoreapp3.1\Series-registration.exe
+C:\Users\gurak\Documents\Coding\Series-registration\bin\Debug\netcoreapp3.1\Series-registration.deps.json
+C:\Users\gurak\Documents\Coding\Series-registration\bin\Debug\netcoreapp3.1\Series-registration.runtimeconfig.json
+C:\Users\gurak\Documents\Coding\Series-registration\bin\Debug\netcoreapp3.1\Series-registration.runtimeconfig.dev.json
+C:\Users\gurak\Documents\Coding\Series-registration\bin\Debug\netcoreapp3.1\Series-registration.dll
+C:\Users\gurak\Documents\Coding\Series-registration\bin\Debug\netcoreapp3.1\Series-registration.pdb
+C:\Users\gurak\Documents\Coding\Series-registration\obj\Debug\netcoreapp3.1\Series-registration.csprojAssemblyReference.cache
+C:\Users\gurak\Documents\Coding\Series-registration\obj\Debug\netcoreapp3.1\Series-registration.AssemblyInfoInputs.cache
+C:\Users\gurak\Documents\Coding\Series-registration\obj\Debug\netcoreapp3.1\Series-registration.AssemblyInfo.cs
+C:\Users\gurak\Documents\Coding\Series-registration\obj\Debug\netcoreapp3.1\Series-registration.csproj.CoreCompileInputs.cache
+C:\Users\gurak\Documents\Coding\Series-registration\obj\Debug\netcoreapp3.1\Series-registration.dll
+C:\Users\gurak\Documents\Coding\Series-registration\obj\Debug\netcoreapp3.1\Series-registration.pdb
+C:\Users\gurak\Documents\Coding\Series-registration\obj\Debug\netcoreapp3.1\Series-registration.genruntimeconfig.cache
