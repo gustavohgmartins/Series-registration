@@ -140,9 +140,7 @@ namespace Series_registration
                     }
                 
             }
-            catch(Exception e){
-                Console.WriteLine(e.StackTrace);
-                Console.WriteLine(e.Message);
+            catch{
                 Console.WriteLine("\nThe fields 'Genre', 'Released' and 'id', only accept integer numbers");
             }
         }
@@ -177,7 +175,6 @@ namespace Series_registration
 
             }
             catch(Exception e){
-                Console.WriteLine(e.Message);
                 Console.WriteLine("\nThe fields 'Genre' and 'Released', only accept integer numbers");
             }
         }
